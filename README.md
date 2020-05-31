@@ -37,7 +37,7 @@
 ```
 
   if (isAwesome) {
-    // thanks in advance :p
+    // thanks in advance :p <#
     starThisRepository();
   }
 
